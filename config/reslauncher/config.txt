@@ -1,0 +1,3 @@
+launcherconfig = http://45.63.8.129/launcherconfig.txt
+clientversion = 0
+launcherversion = 0

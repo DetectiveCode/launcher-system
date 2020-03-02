@@ -1,0 +1,1 @@
+/ressystem/BadNameFilter.shn = E38BB4478F338926F1D36EB9202CC14E

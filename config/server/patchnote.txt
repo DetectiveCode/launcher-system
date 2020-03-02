@@ -1,0 +1,18 @@
+Patch 1.0 - DD.MM.YYYY
+
+Example patch notes... For this patch the main focus was improving this and that, and that other thing as well.. Casual stuff.
+
+- Update 1
+- Update 2
+- Update 3
+- Update 4
+- Update 5
+- Update 6
+- Update 7
+- Update 8
+- Update 9
+- Update 10
+
+Thanks for everyone who reported bugs, keep up the good work, whatever, feel appreciated guys.
+
+Staff Team
